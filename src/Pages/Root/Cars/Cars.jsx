@@ -5,7 +5,7 @@ import { motion, AnimatePresence } from "framer-motion";
 const allCars = [
   {
     id: 1,
-    name: "Toyota Corolla",
+    name: "Toyota Crown",
     brand: "Toyota",
     engine: "1.8L",
     price: "$25,000",
@@ -65,8 +65,8 @@ const allCars = [
   },
   {
     id: 7,
-    name: "Audi R8",
-    brand: "Audi",
+    name: "Toyota Corolla Cross ",
+    brand: "Toyota",
     engine: "5.2L V10",
     price: "$170,000",
     image: "https://images.unsplash.com/photo-1612881381540-8b0b5b74c083",
@@ -75,8 +75,8 @@ const allCars = [
   },
   {
     id: 8,
-    name: "Audi R8",
-    brand: "Audi",
+    name: "Toyota Premio",
+    brand: "Toyota",
     engine: "5.2L V10",
     price: "$170,000",
     image: "https://images.unsplash.com/photo-1612881381540-8b0b5b74c083",
@@ -85,8 +85,8 @@ const allCars = [
   },
   {
     id: 9,
-    name: "Audi R8",
-    brand: "Audi",
+    name: "Honda Civic",
+    brand: "Honda",
     engine: "5.2L V10",
     price: "$170,000",
     image: "https://images.unsplash.com/photo-1612881381540-8b0b5b74c083",
@@ -95,8 +95,8 @@ const allCars = [
   },
   {
     id: 10,
-    name: "Audi R8",
-    brand: "Audi",
+    name: "Honda Accord",
+    brand: "Honda",
     engine: "5.2L V10",
     price: "$170,000",
     image: "https://images.unsplash.com/photo-1612881381540-8b0b5b74c083",
