@@ -7,7 +7,7 @@ const latestCars = [
     brand: "Mercedes",
     engine: "2.0L Turbo",
     price: "$45,000",
-    image: "/public/mercedes-benz-c-class-010.webp",
+    image: "/mercedes-benz-c-class-010.webp",
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ const latestCars = [
     brand: "Audi",
     engine: "3.0L V6",
     price: "$65,000",
-    image: "/public/audi q7.avif",
+    image: "/audi q7.avif",
   },
   {
     id: 3,
@@ -23,7 +23,7 @@ const latestCars = [
     brand: "Tesla",
     engine: "Electric",
     price: "$55,000",
-    image: "/public/Tesla Model 3.webp",
+    image: "/Tesla Model 3.webp",
   },
   {
     id: 4,
@@ -31,7 +31,7 @@ const latestCars = [
     brand: "BMW",
     engine: "3.0L Twin Turbo",
     price: "$75,000",
-    image: "/public/bmw-x5.avif",
+    image: "/bmw-x5.avif",
   },
 ];
 
