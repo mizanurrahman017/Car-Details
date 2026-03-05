@@ -7,6 +7,7 @@ import Root from '../Pages/Root/Root';
 import Cars from '../Pages/Root/Cars/Cars';
 import Brands from '../Pages/Root/Brands/Brands';
 import Compare from '../Pages/Root/Compare/Compare';
+import Contact from '../Pages/Root/Contact/Contact';
 
 
 
@@ -32,6 +33,10 @@ export const router = createBrowserRouter([
         {
           path:"compare",
           element:<Compare></Compare>
+        },
+        {
+          path:"contact",
+          element:<Contact></Contact>
         }
     ]
   },

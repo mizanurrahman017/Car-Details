@@ -16,18 +16,20 @@ const Navbar = () => {
         <div className="flex justify-between items-center h-16">
 
           {/* Logo */}
-          <div className="flex items-center gap-2 text-xl font-bold">
+          <NavLink
+            to="/"
+            className="flex items-center gap-2 text-xl font-bold hover:text-red-500 transition"
+          >
             <FaCar className="text-red-500 text-2xl" />
             <span>CarInfo</span>
-          </div>
-
+          </NavLink>
           {/* Desktop Menu */}
           <div className="hidden md:flex gap-8">
             <NavLink to="/" className={linkStyle}>Home</NavLink>
             <NavLink to="/cars" className={linkStyle}>Cars</NavLink>
             <NavLink to="/brands" className={linkStyle}>Brands</NavLink>
             <NavLink to="/compare" className={linkStyle}>Compare</NavLink>
-            <NavLink to="/about" className={linkStyle}>About</NavLink>
+            {/* <NavLink to="/about" className={linkStyle}>About</NavLink> */}
             <NavLink to="/contact" className={linkStyle}>Contact</NavLink>
           </div>
 
@@ -50,7 +52,7 @@ const Navbar = () => {
             <NavLink to="/cars" className={linkStyle}>Cars</NavLink>
             <NavLink to="/brands" className={linkStyle}>Brands</NavLink>
             <NavLink to="/compare" className={linkStyle}>Compare</NavLink>
-            <NavLink to="/about" className={linkStyle}>About</NavLink>
+            {/* <NavLink to="/about" className={linkStyle}>About</NavLink> */}
             <NavLink to="/contact" className={linkStyle}>Contact</NavLink>
           </div>
         </div>

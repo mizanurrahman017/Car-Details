@@ -74,7 +74,7 @@ const cars = [
   {
     id: 8,
     name: "Mercedes Benz ",
-    brand: "Tesla",
+    brand: "Mercedes Benz",
     engine: "Electric",
     price: "$90,000",
     image: "/mercedes.avif",
