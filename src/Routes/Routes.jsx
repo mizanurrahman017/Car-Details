@@ -5,6 +5,8 @@ import ErrorPage from '../Pages/Root/ErrorPage/ErrorPage';
 import Home from '../Pages/Root/Home/Home';
 import Root from '../Pages/Root/Root';
 import Cars from '../Pages/Root/Cars/Cars';
+import Brands from '../Pages/Root/Brands/Brands';
+import Compare from '../Pages/Root/Compare/Compare';
 
 
 
@@ -22,6 +24,14 @@ export const router = createBrowserRouter([
         {
             path:"cars",
             element:<Cars></Cars>
+        },
+        {
+          path:"brands",
+          element:<Brands></Brands>
+        },
+        {
+          path:"compare",
+          element:<Compare></Compare>
         }
     ]
   },
