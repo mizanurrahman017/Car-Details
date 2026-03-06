@@ -6,7 +6,7 @@ const cars = [
     name: "Toyota Crown",
     brand: "Toyota",
     engine: "1.8L",
-    price: "$25,000",
+    price: "BDT 85 Lakh",
     image: "/toyotacrown.jpg",
     description:
       "The Toyota Corolla is a compact sedan known for reliability, fuel efficiency, and comfort.",
@@ -16,7 +16,7 @@ const cars = [
     name: "BMW M5",
     brand: "BMW",
     engine: "4.4L Twin Turbo",
-    price: "$105,000",
+    price: "BDT 3.5-4 Crore",
     image: "/bmwm5.webp",
     description:
       "The BMW M5 is a high-performance luxury sedan offering speed, style, and advanced tech features.",
@@ -26,7 +26,7 @@ const cars = [
     name: "Tesla Model S",
     brand: "Tesla",
     engine: "Electric",
-    price: "$90,000",
+    price: "BDT 1.5 crore",
     image: "/teslamodel.jpg",
     description:
       "The Tesla Model S is an all-electric car with impressive range, autopilot, and futuristic design.",
@@ -46,7 +46,7 @@ const cars = [
     name: "Honda insight",
     brand: "Tesla",
     engine: "Electric",
-    price: "$90,000",
+    price: "BDT 26,991,813",
     image: "/Honda insight-.jpg",
     description:
       "The Tesla Model S is an all-electric car with impressive range, autopilot, and futuristic design.",
@@ -54,9 +54,9 @@ const cars = [
   {
     id: 6,
     name: "Jaguar XF",
-    brand: "Tesla",
+    brand: "Jaguar",
     engine: "Electric",
-    price: "$90,000",
+    price: " BDT 6,087,800",
     image: "/jaguar.jpg",
     description:
       "The Tesla Model S is an all-electric car with impressive range, autopilot, and futuristic design.",
@@ -64,9 +64,9 @@ const cars = [
   {
     id: 7,
     name: "Mazda MX5",
-    brand: "Tesla",
-    engine: "Electric",
-    price: "$90,000",
+    brand: "Mazda",
+    engine: "SKYACTIV-G 1.5L or 2.0L",
+    price: "BDT 5.58 million",
     image: "/Mazda-MX.jpg",
     description:
       "The Tesla Model S is an all-electric car with impressive range, autopilot, and futuristic design.",
