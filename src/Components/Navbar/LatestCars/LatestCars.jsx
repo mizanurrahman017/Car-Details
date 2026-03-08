@@ -6,7 +6,7 @@ const latestCars = [
     name: "Mercedes C-Class",
     brand: "Mercedes",
     engine: "2.0L Turbo",
-    price: "$45,000",
+    price: "BDT 1,05,00,000",
     image: "/mercedes-benz-c-class-010.webp",
   },
   {
@@ -14,7 +14,7 @@ const latestCars = [
     name: "Audi Q7",
     brand: "Audi",
     engine: "3.0L V6",
-    price: "$65,000",
+    price: "BDT 99 lakh",
     image: "/audi q7.avif",
   },
   {
@@ -22,7 +22,7 @@ const latestCars = [
     name: "Tesla Model 3",
     brand: "Tesla",
     engine: "Electric",
-    price: "$55,000",
+    price: "BDT 1 crore 40 lakh",
     image: "/Tesla Model 3.webp",
   },
   {
@@ -30,7 +30,7 @@ const latestCars = [
     name: "BMW X5",
     brand: "BMW",
     engine: "3.0L Twin Turbo",
-    price: "$75,000",
+    price: "BDT 17.5 million",
     image: "/bmw-x5.avif",
   },
 ];

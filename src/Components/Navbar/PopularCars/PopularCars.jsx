@@ -36,7 +36,7 @@ const cars = [
     name: "Audi R8",
     brand: "Audi",
     engine: "5.2L V10",
-    price: "$170,000",
+    price: "  BDT 79,544,000",
     image: "/Audi R8.jpg",
     description:
       "The Audi R8 is a supercar with breathtaking performance, sleek design, and advanced handling.",
@@ -76,7 +76,7 @@ const cars = [
     name: "Mercedes Benz ",
     brand: "Mercedes Benz",
     engine: "Electric",
-    price: "$90,000",
+    price: "BDT 1,05,00,000",
     image: "/mercedes.avif",
     description:
       "The Tesla Model S is an all-electric car with impressive range, autopilot, and futuristic design.",
